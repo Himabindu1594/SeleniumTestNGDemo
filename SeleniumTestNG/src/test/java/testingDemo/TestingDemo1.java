@@ -50,7 +50,7 @@ public class TestingDemo1 {
 
   public void beforeTest() {
 
-	  //System.setProperty("webdriver.chrome.driver", "G:\\drivers\\chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver", "G:\\drivers\\chromedriver.exe");
 
 //		//To open an URL i was using driver.get
 
