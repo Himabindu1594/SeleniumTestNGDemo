@@ -38,7 +38,7 @@ public class TestingDemo1 {
 
     return new Object[][] {
 
-      new Object[] { "Admin", "admin123" },
+      new Object[] { "linda.anderson", "linda.anderson" },
 
       new Object[] { "linda.anderson", "linda.anderson" },
 
